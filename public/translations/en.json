@@ -74,7 +74,7 @@
         "name": "Soundplay's 'Brainwave'",
         "description": "A MIDI instrument with interactive LED animations. Written in C++ for a Teensy microcontroller.",
         "href": "https://github.com/UhOhSpiders/SoundplayBrainwave",
-        "image":"/project-images/vercel-white.png"
+        "image":"/project-images/brain-wave.png"
       }
     ]
   }

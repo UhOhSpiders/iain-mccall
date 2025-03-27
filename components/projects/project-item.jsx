@@ -13,7 +13,7 @@ function ProjectItem(props) {
           src={props.image}
           width={800}
           height={500}
-          className="items-center"
+          className="items-center rounded-md"
           alt="Picture of the project"
         />
       </div>

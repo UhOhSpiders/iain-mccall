@@ -5,14 +5,7 @@ function ExperienceItem(props) {
   return (
     <div className="group flex flex-row mb-4 p-5 transition-all hover:bg-surface-200 hover:bg-opacity-70">
       <div>
-        <a
-          href={props.href}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="font-medium transition-all"
-        >
           {props.title} | {props.company}{" "}
-        </a>
         <div className="mb-2 text-surface-600">
           {props.startDate} - {props.endDate}
         </div>
