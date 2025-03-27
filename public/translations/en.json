@@ -1,0 +1,81 @@
+{
+    "general": {
+      "name": "Iain McCall",
+      "headline": "Software Developer",
+      "about": [
+        "Hello! 👋",
+        "I'm a software developer based in Glasgow, Scotland.",
+        "I developed a love for technology while working in animation and video production. I became so interested in the software that I was using that I decided to start making it instead. I am fascinated by design patterns and full stack architectures, as well as modern front end frameworks like React. I enjoy bringing my project management and soft skills to new software development challenges.",
+        "The background of this site is an interactive physics simulation. Have a play around!"
+      ],
+      "socials": {
+        "email": "iain.mccall.95@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/iain-mccall-b9370a284/",
+        "github": "https://github.com/UhOhSpiders/"
+      }
+    },
+    "experiences": [
+      {
+        "title": "Full Stack Developer",
+        "company": "Freelance",
+        "href": "",
+        "startDate": "07/2024",
+        "endDate": "CURRENT",
+        "description": "Developing and maintaining full stack web applications using React, GraphQL, AWS Amplify, and Three.js.",
+        "skills": ["Node.js", "React", "GraphQL", "Three.js"]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Soundplay Projects",
+        "href": "",
+        "startDate": "09/2024",
+        "endDate": "CURRENT",
+        "description": "Writing and maintaining code for custom electronic musical instruments and audio/visual experiences using an eclectic tech stack.",
+        "skills": ["C++", "Java", "Processing", "Linux", "Raspberry Pi", "Microcontrollers"]
+      },
+      {
+        "title": "Animation & Video Production",
+        "company": "Freelance",
+        "href": "",
+        "startDate": "07/2018",
+        "endDate": "07/2021",
+        "description": "Created engaging 2D & 3D content for clients, collaborating with app developers to deliver assets to spec. Managed production schedules and budgets, leading teams of up to 30 people.",
+        "skills": ["Adobe Creative Cloud", "Project Management", "Animation", "Design"]
+      }
+    ],
+    "education": [
+      {
+        "subject": "Sculpture & Environmental Art",
+        "degree": "1st Class Honours",
+        "university": "Glasgow School of Art",
+        "href": "",
+        "startDate": "2014",
+        "endDate": "2018",
+        "description": "Graduated with first-class honours, awarded multiple prizes for artistic excellence."
+      },
+      {
+        "subject": "Software Development Course",
+        "degree": "Certificate",
+        "university": "CodeClan",
+        "href": "",
+        "startDate": "2023-05",
+        "endDate": "2023-09",
+        "description": "Intensive 16-week bootcamp focused on full stack development, TDD, pair programming, and agile methodologies."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Cyber Dancer Web Game",
+        "description": "Full stack web game using React, GraphQL, and Three.js with AWS Amplify for deployment.",
+        "href": "https://github.com/UhOhSpiders/Cyber-Dancer",
+        "image":"/project-images/cyber-dancer.png"
+      },
+      {
+        "name": "Soundplay's 'Brainwave'",
+        "description": "A MIDI instrument with interactive LED animations. Written in C++ for a Teensy microcontroller.",
+        "href": "https://github.com/UhOhSpiders/SoundplayBrainwave",
+        "image":"/project-images/vercel-white.png"
+      }
+    ]
+  }
+  
